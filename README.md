@@ -11,6 +11,13 @@
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
+If Anaconda distribution is not installed, then you will need to install below libraries on the top of python to be able to run notebooks:
+
+    Pandas
+    numpy
+    Matplotlib
+
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
