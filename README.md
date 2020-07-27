@@ -15,13 +15,12 @@ There should be no necessary libraries to run the code here beyond the usage of 
 
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
+1. How Hospital Beds helps in reducing coronavirus deaths?
+2. Will Handwashing facilities existence improve coronavirus control?
+3. How could diabetes prevalence increase the total deaths of coronavirus?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+
+The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.
 
 
 ## File Descriptions <a name="files"></a>
