@@ -9,7 +9,7 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the usage of Python.  The code should run with no issues using Python.
+There should be no necessary libraries to run the code here beyond the usage of Python.  The code should run with no issues using Python 3.0.
 
 ## Project Motivation<a name="motivation"></a>
 
