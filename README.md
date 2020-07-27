@@ -13,9 +13,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 If Anaconda distribution is not installed, then you will need to install below libraries on the top of python to be able to run notebooks:
 
-    Pandas
-    numpy
-    Matplotlib
+    1.Pandas
+    2.numpy
+    3.Matplotlib
 
 
 ## Project Motivation<a name="motivation"></a>
