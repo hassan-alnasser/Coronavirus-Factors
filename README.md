@@ -20,15 +20,11 @@ If Anaconda distribution is not installed, then you will need to install below l
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+COVID-19 affects different people in different ways. For this project, I was interested in using the latest data on coronavirus pandemic from ourworldindata.org to understand and find answers for:
 
-1. How Hospital Beds helps in reducing coronavirus deaths?
+1. How Hospital Beds could helps in reducing coronavirus deaths?
 2. Will Handwashing facilities existence improve coronavirus control?
 3. How could diabetes prevalence increase the total deaths of coronavirus?
-
-
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.
-
 
 ## File Descriptions <a name="files"></a>
 
