@@ -28,7 +28,7 @@ COVID-19 affects different people in different ways. In this project, I was inte
 
 ## File Descriptions <a name="files"></a>
 
-In this repository, there is Covid.ipynb file available to showcase work related to the above questions. I could not put the dataset file in the git repository as it's size is large. But, I provided the dataset link at the bottom of the page here to download. The dataset xlsx file needs to be in the same folder where the .ipynb files are there.
+In this repository, there is Covid.ipynb file available to showcase work related to the above questions. I provided the dataset link at the bottom of the page here to download. The dataset xlsx file needs to be in the same folder with the .ipynb files.
 
 ## Results<a name="results"></a>
 
