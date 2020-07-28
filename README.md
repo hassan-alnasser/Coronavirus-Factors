@@ -28,9 +28,7 @@ COVID-19 affects different people in different ways. In this project, I was inte
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+In this repository, there is Covid.ipynb file available to showcase work related to the above questions. I could not put the dataset file in the git repository as it's size is large. But, I provided the dataset link at the bottom of the page here to download. The dataset xlsx file needs to be in the same folder where the .ipynb files are there.
 
 ## Results<a name="results"></a>
 
