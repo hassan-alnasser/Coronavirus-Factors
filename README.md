@@ -36,5 +36,5 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-The major credit goes to ourworldindata.org for providing the data.  You can find the Licensing for the data and other descriptive information at the ourworldindata link available [here](https://ourworldindata.org/coronavirus-data).  Otherwise, feel free to use the code here as you would like! 
+The major credit goes to ourworldindata.org for providing the data.  You can find the Licensing for the data and other descriptive information at the ourworldindata link available [here](https://ourworldindata.org/coronavirus-data). Data used is [here] https://covid.ourworldindata.org/data/owid-covid-data.xlsx Otherwise, feel free to use the code here as you would like! 
 
