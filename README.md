@@ -32,7 +32,7 @@ In this repository, there is Covid.ipynb file available to showcase work related
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@hassan.0.alnasser/risk-factors-of-covid-19-death-98adbb9600aa).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
