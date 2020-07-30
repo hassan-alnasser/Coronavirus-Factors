@@ -20,11 +20,11 @@ If Anaconda distribution is not installed, then you will need to install below l
 
 ## Project Motivation<a name="motivation"></a>
 
-COVID-19 affects different people in different ways. In this project, I was interested in using the latest data on COVID-19 pandemic from ourworldindata.org to understand and find answers for:
+COVID-19 affects people in different ways. In this project, I was interested in using the latest data on COVID-19 pandemic from ourworldindata.org to understand and find answers for:
 
-    1. How the increase of Hospital Beds could help in reducing COVID-19 deaths?
-    2. Will Handwashing Facilities existence improve COVID-19 control?
-    3. How could diabetes prevalence increase the total deaths of COVID-19?
+  1. How the increase of hospital beds could help in reducing Covid-19 deaths?
+  2. Will handwashing facility access improve Covid-19 infection control?
+  3. Could diabetes prevalence affect the death toll of Covid-19?
 
 ## File Descriptions <a name="files"></a>
 
